@@ -6,4 +6,4 @@ and make a report about the effectiveness of advertising and communication
 
 My first time using PowerBi and practiced analyzing one case study. I learned a lot but many things could be improved as well.
 
-Thank my team!
+Thank my team for accompanying and helping together!
